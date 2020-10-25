@@ -1,1 +1,359 @@
-[{"id":1,"genre":["comédia romântica","drama romântico"],"synopsis":"Emily chega cheia de ideias e energia ao novo escritório em Paris. O único problema é que ela não sabe falar francês","liked":true,"seasons":[{"id":1,"code":"season01","episodes":[]}]},{"id":2,"name":"Friends","genre":"Comédia","synopsis":"Seis jovens são unidos por laços familiares românticos e, principalmente, de amizade, enquanto tentam vingar em Nova York (...)","liked":true,"seasons":[]},{"id":3,"name":"Dark","genre":["Drama","Ficção científica","Suspense"],"synopsis":"Quatro diferentes famílias - Kahnwald, Nielsen, Doppler e Tiedemann - vivem em Winden, uma pequena e aparentemente tranquila cidade alemã. A rotina dos moradores vira de cabeça (...)","seasons":[]}]
+[
+    {
+        "id": 1,
+        "genre": [
+            "comédia romântica",
+            "drama romântico"
+        ],
+        "synopsis": "Emily chega cheia de ideias e energia ao novo escritório em Paris. O único problema é que ela não sabe falar francês",
+        "liked": true,
+        "seasons": [
+            {
+                "id": 1,
+                "code": "season01",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Emily em Paris",
+                        "watched": true
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Palavras masculinas",
+                        "watched": true
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "Sexy ou sexista",
+                        "watched": true
+                    },
+                    {
+                        "id": 4,
+                        "code": "ep04",
+                        "name": "Um beijo é só um beijo",
+                        "watched": true
+                    },
+                    {
+                        "id": 5,
+                        "code": "ep05",
+                        "name": "Falsos amigos",
+                        "watched": false
+                    },
+                    {
+                        "id": 6,
+                        "code": "ep06",
+                        "name": "Básica",
+                        "watched": false
+                    },
+                    {
+                        "id": 7,
+                        "code": "ep07",
+                        "name": "Final francês",
+                        "watched": false
+                    },
+                    {
+                        "id": 8,
+                        "code": "ep08",
+                        "name": "Em família",
+                        "watched": false
+                    },
+                    {
+                        "id": 9,
+                        "code": "ep09",
+                        "name": "O leilão",
+                        "watched": false
+                    },
+                    {
+                        "id": 10,
+                        "code": "ep10",
+                        "name": "Desfile cancelado",
+                        "watched": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Friends",
+        "genre": "Comédia",
+        "synopsis": "Seis jovens são unidos por laços familiares românticos e, principalmente, de amizade, enquanto tentam vingar em Nova York (...)",
+        "liked": true,
+        "seasons": [
+            {
+                "id": 1,
+                "code": "season01",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Aquele onde tudo começa",
+                        "watched": true
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Aquele com o Ultrassom",
+                        "watched": false
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "Aquele com o Dedão",
+                        "watched": true
+                    },
+                    {
+                        "id": 4,
+                        "code": "ep04",
+                        "name": "Aquele com George Stephanopoulos",
+                        "watched": false
+                    },
+                    {
+                        "id": 5,
+                        "code": "ep05",
+                        "name": "Aquele com o sabão em pó da Alemanha Oriental",
+                        "watched": false
+                    },
+                    {
+                        "id": 6,
+                        "code": "ep06",
+                        "name": "Aquele com o traseiro",
+                        "watched": true
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "code": "season02",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Aquele com a nova namorada",
+                        "watched": false
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Aquele do leite materno",
+                        "watched": false
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "Aquele em que Mr Heckles morre",
+                        "watched": true
+                    },
+                    {
+                        "id": 4,
+                        "code": "ep04",
+                        "name": "Aquele com o marido de Phoebe",
+                        "watched": false
+                    },
+                    {
+                        "id": 5,
+                        "code": "ep05",
+                        "name": "Aquele dos cinco bifes e uma berinjela",
+                        "watched": false
+                    },
+                    {
+                        "id": 6,
+                        "code": "ep06",
+                        "name": "Aquele com o bebê no ônibus",
+                        "watched": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dark",
+        "genre": [
+            "Drama",
+            "Ficção científica",
+            "Suspense"
+        ],
+        "synopsis": "Quatro diferentes famílias - Kahnwald, Nielsen, Doppler e Tiedemann - vivem em Winden, uma pequena e aparentemente tranquila cidade alemã. A rotina dos moradores vira de cabeça (...)",
+        "seasons": [
+            {
+                "id": 1,
+                "code": "season01",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Segredos",
+                        "watched": true
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Mentiras",
+                        "watched": true
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "Passado e presente",
+                        "watched": true
+                    },
+                    {
+                        "id": 4,
+                        "code": "ep04",
+                        "name": "Vidas duplas",
+                        "watched": true
+                    },
+                    {
+                        "id": 5,
+                        "code": "ep05",
+                        "name": "Verdades",
+                        "watched": false
+                    },
+                    {
+                        "id": 6,
+                        "code": "ep06",
+                        "name": "Assim foi criado o mundo",
+                        "watched": false
+                    },
+                    {
+                        "id": 7,
+                        "code": "ep07",
+                        "name": "Ponto crítico",
+                        "watched": false
+                    },
+                    {
+                        "id": 8,
+                        "code": "ep08",
+                        "name": "Você colhe o que planta",
+                        "watched": false
+                    },
+                    {
+                        "id": 9,
+                        "code": "ep09",
+                        "name": "Tudo acontece agora",
+                        "watched": false
+                    },
+                    {
+                        "id": 10,
+                        "code": "ep10",
+                        "name": "Alfa e ômega",
+                        "watched": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "code": "season02",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Começos e fins",
+                        "watched": true
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Matéria escura",
+                        "watched": true
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "Fantasmas",
+                        "watched": true
+                    },
+                    {
+                        "id": 4,
+                        "code": "ep04",
+                        "name": "Os viajantes",
+                        "watched": true
+                    },
+                    {
+                        "id": 5,
+                        "code": "ep05",
+                        "name": "Achados e perdidos",
+                        "watched": false
+                    },
+                    {
+                        "id": 6,
+                        "code": "ep06",
+                        "name": "Ciclo sem fim",
+                        "watched": false
+                    },
+                    {
+                        "id": 7,
+                        "code": "ep07",
+                        "name": "Diabo Branco",
+                        "watched": false
+                    },
+                    {
+                        "id": 8,
+                        "code": "ep08",
+                        "name": "Fins e começos",
+                        "watched": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "code": "season03",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Déjà-vu",
+                        "watched": false
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Os Sobreviventes",
+                        "watched": false
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "Adam e Eva",
+                        "watched": false
+                    },
+                    {
+                        "id": 4,
+                        "code": "ep04",
+                        "name": "A Origem",
+                        "watched": false
+                    },
+                    {
+                        "id": 5,
+                        "code": "ep05",
+                        "name": "Vida e morte",
+                        "watched": false
+                    },
+                    {
+                        "id": 6,
+                        "code": "ep06",
+                        "name": "Luz e sombra",
+                        "watched": false
+                    },
+                    {
+                        "id": 7,
+                        "code": "ep07",
+                        "name": "Entretempo",
+                        "watched": false
+                    },
+                    {
+                        "id": 8,
+                        "code": "ep08",
+                        "name": "O Paraíso",
+                        "watched": false
+                    }
+                ]
+            }
+        ],
+        "liked": false
+    }
+]
