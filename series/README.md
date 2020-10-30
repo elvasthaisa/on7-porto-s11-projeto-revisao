@@ -6,7 +6,7 @@ Durante a aula, fizemos juntas uma api para controlar os filmes que queremos ass
 ### Contratos que deverão ser entregues
 
 | Verbo | Descrição |
-|-------------------|
+|-------|-----------|
 | GET | Retornar todas as séries |
 | GET | Retornar apenas uma série |
 | POST | Cadastrar nova série |
